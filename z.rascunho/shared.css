@@ -1,0 +1,16 @@
+@font-face{
+    font-family: "AlexBrush-Regular";
+    src: url(font/AlexBrush-Regular.ttf) format('truetype')
+}
+
+
+p{
+    color:red;
+    font-family:"AlexBrush-Regular" ;
+}
+
+h1{
+    font-family: 'Fira Sans', sans-serif;
+
+    font-family: 'Meow Script', cursive;
+}
